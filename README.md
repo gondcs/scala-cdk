@@ -4,7 +4,7 @@ This is a blank project for CDK development with Scala.
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
-It is a [Scala CLI](https://scala-cli.virtuslab.org/) based project, so you can open this project with any compatible Scala IDE to build and run tests.
+It is a [Scala CLI](https://scala-cli.virtuslab.org/) - [AWS CDK](https://formulae.brew.sh/formula/aws-cdk) based project, so you can open this project with any compatible Scala IDE to build and run tests, and cdk to deploy it.
 
 
 ## Useful commands
