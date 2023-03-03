@@ -1,0 +1,5 @@
+.vscode
+.metals
+cdk.out
+.bsp
+.scala-build
